@@ -14,7 +14,7 @@ function Home() {
                    title="Luxirious Roomds"
                    subtitle="delux rooms startion $299"
                >
-                   <Link to='/rooms' className="btn-primary">
+                   <Link to='/react-beach-resort/rooms' className="btn-primary">
                        Our Room
                    </Link>
                </Banner>

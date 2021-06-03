@@ -12,7 +12,7 @@ function Room({room}) {
                      <h5>${price}</h5>
                      <p>per night</p>
                  </div>
-                 <Link to={`/rooms/${slug}`} className="btn-primary room-link">
+                 <Link to={`/react-beach-resort/rooms/${slug}`} className="btn-primary room-link">
                      Features
                  </Link>
              </div>

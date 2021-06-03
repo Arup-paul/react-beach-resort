@@ -10,7 +10,7 @@ function Error( ) {
                  title="404"
                  subtitle="page not found"
              >
-                 <Link to='/' className="btn-primary">
+                 <Link to='/react-beach-resort' className="btn-primary">
                      Back To Home
                  </Link>
              </Banner>
