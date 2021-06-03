@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-beach-resort/static/css/main.f5498533.chunk.css",
-    "main.js": "/react-beach-resort/static/js/main.527300ed.chunk.js",
-    "main.js.map": "/react-beach-resort/static/js/main.527300ed.chunk.js.map",
+    "main.js": "/react-beach-resort/static/js/main.6a7cef1d.chunk.js",
+    "main.js.map": "/react-beach-resort/static/js/main.6a7cef1d.chunk.js.map",
     "runtime-main.js": "/react-beach-resort/static/js/runtime-main.17cfa942.js",
     "runtime-main.js.map": "/react-beach-resort/static/js/runtime-main.17cfa942.js.map",
     "static/js/2.d7947a55.chunk.js": "/react-beach-resort/static/js/2.d7947a55.chunk.js",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.17cfa942.js",
     "static/js/2.d7947a55.chunk.js",
     "static/css/main.f5498533.chunk.css",
-    "static/js/main.527300ed.chunk.js"
+    "static/js/main.6a7cef1d.chunk.js"
   ]
 }
