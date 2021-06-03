@@ -5,6 +5,7 @@ import {Link} from "react-router-dom";
 import Services from "../Components/Services";
 import FeaturedRoom from "../Components/FeaturedRoom";
 
+
 function Home() {
     return (
         <>
